@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+tqdm
+plotly
+supabase
+python-dotenv
